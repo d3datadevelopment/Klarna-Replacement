@@ -20,4 +20,4 @@ if the Klarna module is to be used again
 * Manually clean up the replacement module entry (d3/oxid-klarna-replacement) from the vendor/composer/installed.json and composer.lock files.
 * Run this composer statement in your shop. Adjust this instruction if your installation requires it.
 
-    `composer update --no-dev`
+    `composer remove d3/oxid-klarna-replacement --update-no-dev`
