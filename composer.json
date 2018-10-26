@@ -1,0 +1,8 @@
+{
+  "name": "d3/oxid-klarna-replacement",
+  "description": "empty replacement for Klarna module, when it's not used",
+  "version": "1.0.0",
+  "replace": {
+    "topconcepts/oxid-klarna-6": "*"
+  }
+}
