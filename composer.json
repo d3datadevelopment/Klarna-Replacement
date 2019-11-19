@@ -7,5 +7,6 @@
   },
   "replace": {
     "topconcepts/oxid-klarna-6": "*"
-  }
+  },
+  "license": "GPL-3.0-or-later"
 }
