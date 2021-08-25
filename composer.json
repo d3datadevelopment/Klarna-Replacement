@@ -1,7 +1,6 @@
 {
   "name": "d3/oxid-klarna-replacement",
   "description": "Empty replacement for the Klarna module if it is not used and should be removed from the installation.",
-  "version": "1.0.0",
   "require": {
     "oxid-esales/oxideshop-metapackage-ce": "^6.0"
   },
