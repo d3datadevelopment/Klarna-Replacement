@@ -5,7 +5,8 @@
     "oxid-esales/oxideshop-metapackage-ce": "^6.0"
   },
   "replace": {
-    "topconcepts/oxid-klarna-6": "*"
+    "topconcepts/oxid-klarna-6": "*",
+    "fatchip-gmbh/oxid-klarna-6": "*",
   },
   "license": "GPL-3.0-or-later"
 }
